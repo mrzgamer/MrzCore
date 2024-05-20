@@ -1,0 +1,17 @@
+name: MrzCore
+version: 1.0
+authors: [MuriloMoraz]
+main: me.dev.klarcky.main.Main
+api-version: 1.17
+commands:
+   fly:
+   food:
+   hat:
+   god:
+   tpa:
+   mesa:
+   bigorna:
+   lixeira:
+   enderchest:
+   gm:
+    
